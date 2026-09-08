@@ -581,6 +581,9 @@ https://lroc.im-ldi.com/images/downloads/
 
 https://quickmap.lroc.im-ldi.com/
 
+<img width="1600" height="550" alt="ohrcandtmc" src="https://github.com/user-attachments/assets/c808db99-78a3-46e3-8b5b-0161109b112a" />
+<img width="1600" height="527" alt="scaleinvariance" src="https://github.com/user-attachments/assets/2150d760-ba8a-4c11-b304-acfc90679cd4" />
+
 ---
 
 ## ⚠️ Current Limitations
